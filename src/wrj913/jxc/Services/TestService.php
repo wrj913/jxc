@@ -6,7 +6,7 @@
  * Time: 下午3:40
  */
 
-namespace Vince\Jxc\Service;
+namespace Wrj913\Jxc\Service;
 class TestService
 {
         public function main()
