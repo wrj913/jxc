@@ -1,0 +1,14 @@
+{
+    "name": "vince/jxc",
+    "description": "Sales and sales management",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wurongjian",
+            "email": "wurongjian@freshfirst.cn"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    }
+}
